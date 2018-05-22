@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy-amd64:v1.10.3
+#FROM gcr.io/google_containers/kube-proxy-amd64:v1.10.3
+FROM alpine:3.7
